@@ -8,7 +8,7 @@ Local binary patterns are a features used for classification in the field of mac
 
 ![LBP image calculation](https://user-images.githubusercontent.com/61402731/149645575-d0052b17-6484-4d13-bcb8-368d2823594d.png)
 
-# LBP image calculation
+LBP image calculation
 
 
 
