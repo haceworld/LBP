@@ -12,7 +12,7 @@ Local binary patterns are a features used for classification in the field of mac
 
 
 
-This is the code for preproessing original images to local binary pattern (LBP) images. This code will help researcher process their images into LBP. THis code process for single and multiple images in a folder and save them in another folder. ensure the right directory path is called properly. The result of the code is presented below:
+This is the code for preproessing original images to local binary pattern (LBP) images. This code will help researcher process their images into LBP. This code process single and multiple images in a folder and save them in another folder. ensure the right directory path is called properly. The result of the code is presented below:
 
 
 
