@@ -10,6 +10,7 @@ This is the code for preproessing original images to local binary pattern (LBP) 
 
 
 ![CT2](https://user-images.githubusercontent.com/61402731/149645426-baf7ff76-7d1a-4efa-8006-b053db232d9b.png)
+
 Original CT image
 
 
