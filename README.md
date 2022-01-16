@@ -18,7 +18,7 @@ This is the code for preproessing original images to local binary pattern (LBP) 
 
 ![CT2](https://user-images.githubusercontent.com/61402731/149645426-baf7ff76-7d1a-4efa-8006-b053db232d9b.png)
 
-# Original CT image
+Original CT image
 
 
 
@@ -31,7 +31,7 @@ This is the code for preproessing original images to local binary pattern (LBP) 
 
 ![CT_2_LBP](https://user-images.githubusercontent.com/61402731/149645424-14478e74-4d7c-42ea-a7b9-425e71d77782.jpg)
 
-# LBP CT image
+LBP CT image
 
 
 
